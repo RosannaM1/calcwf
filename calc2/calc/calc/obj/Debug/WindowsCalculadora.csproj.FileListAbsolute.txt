@@ -1,0 +1,10 @@
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\bin\Debug\WindowsCalculadora.exe.config
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\bin\Debug\WindowsCalculadora.exe
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\bin\Debug\WindowsCalculadora.pdb
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.csproj.AssemblyReference.cache
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.Form1.resources
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.Properties.Resources.resources
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.csproj.GenerateResource.cache
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.exe
+C:\Users\Rosanna M\Downloads\WindowsCalculadora-master\WindowsCalculadora-master\WindowsCalculadora\obj\Debug\WindowsCalculadora.pdb
